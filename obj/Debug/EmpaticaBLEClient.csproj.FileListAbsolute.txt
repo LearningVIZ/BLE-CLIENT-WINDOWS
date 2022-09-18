@@ -1,0 +1,11 @@
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe.config
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.pdb
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\Microsoft.CSharp.dll
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\System.Data.dll
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\System.dll
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\System.Xml.dll
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\bin\Debug\System.Xml.Linq.dll
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.exe
+C:\Users\h0zhan22\Desktop\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.pdb
